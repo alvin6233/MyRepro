@@ -87,4 +87,7 @@
         <version>6.0.3</version>
     </dependency>
     </dependencies>
+    <build>
+        <finalName>MyRepro</finalName>
+    </build>
 </project>
